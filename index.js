@@ -7,7 +7,7 @@ document.getElementById("blogs").style.color="white";
 
 }
 function contact(){
-    document.getElementById("contacts").style.color="rgb(75, 250, 75)";
+    document.getElementById("contacts").style.color="rgb(76, 250, 75)";
     document.getElementById("homes").style.color="white";
     document.getElementById("pro").style.color="white";
     document.getElementById("plans").style.color="white";
@@ -32,6 +32,7 @@ function contact(){
 
 
             }
+            
             function blog(){
                 document.getElementById("homes").style.color="white";
                 document.getElementById("pro").style.color="white";
